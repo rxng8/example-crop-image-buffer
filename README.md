@@ -1,0 +1,1 @@
+# Example ios camera-app that crop image buffer in real time according to the predefined rectangle.
